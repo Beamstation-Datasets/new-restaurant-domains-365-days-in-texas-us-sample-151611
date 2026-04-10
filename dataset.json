@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in Texas, US",
+  "export_job_id": "f5ed07b9-9fd3-4d7c-ac5e-b3a60075639d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 151611,
+  "location_name": "Texas",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-texas-us-sample-151611",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/151611/beamstation_151611_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 284,
+  "sample_sha256": "4c8a604ef24fb2e77750a64cd04f391cda450b0d926853f1f2c87dde5ffdaf99",
+  "sample_size_bytes": 1032061,
+  "total_records": 2841,
+  "updated_at": "2026-04-09T20:45:36.105193+00:00"
+}
