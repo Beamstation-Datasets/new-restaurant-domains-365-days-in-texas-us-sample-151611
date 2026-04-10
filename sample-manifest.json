@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f5ed07b9-9fd3-4d7c-ac5e-b3a60075639d",
+  "id_short": 151611,
+  "published_at": "2026-04-10T19:17:30Z",
+  "repo_name": "new-restaurant-domains-365-days-in-texas-us-sample-151611",
+  "sample_asset_name": "beamstation_151611_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/151611/beamstation_151611_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 284,
+  "sample_sha256": "4c8a604ef24fb2e77750a64cd04f391cda450b0d926853f1f2c87dde5ffdaf99",
+  "sample_size_bytes": 1032061,
+  "total_records": 2841
+}
